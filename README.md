@@ -1,5 +1,5 @@
 <p align = 'center'>
-  <img src = 'https://github.com/Meet2304/IoT-Programmes/blob/main/IoT-Programmes-Header.png'>
+  <img src = 'https://github.com/Meet2304/IoT-Programs/blob/main/IoT%20Programmes_Header.png'>
 </p>
 
 <h1 align="center">IoT Programmes</h1>
